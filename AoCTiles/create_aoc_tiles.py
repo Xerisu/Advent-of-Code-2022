@@ -274,7 +274,7 @@ def handle_day(day: int, year: int, day_path: Path, html: HTML, day_scores):
         for file_path in day_path.glob("**/*"):
             if file_path.is_file():
                 if file_path.suffix.lower() in extension_to_color:
-                    if solution_file_path is None and file_path.stem.lower() in ("main"):
+                    if solution_file_path is None and file_path.stem.lower() in ("main", "program"):
                         solution_file_path = file_path
                         languages.append(file_path.suffix.lower())
     languages = sorted(set(languages))
