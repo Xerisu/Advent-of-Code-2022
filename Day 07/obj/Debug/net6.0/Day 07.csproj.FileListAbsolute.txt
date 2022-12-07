@@ -1,0 +1,16 @@
+C:\Users\Kasia\source\repos\Day 07\bin\Debug\net6.0\Day 07.exe
+C:\Users\Kasia\source\repos\Day 07\bin\Debug\net6.0\Day 07.deps.json
+C:\Users\Kasia\source\repos\Day 07\bin\Debug\net6.0\Day 07.runtimeconfig.json
+C:\Users\Kasia\source\repos\Day 07\bin\Debug\net6.0\Day 07.dll
+C:\Users\Kasia\source\repos\Day 07\bin\Debug\net6.0\ref\Day 07.dll
+C:\Users\Kasia\source\repos\Day 07\bin\Debug\net6.0\Day 07.pdb
+C:\Users\Kasia\source\repos\Day 07\obj\Debug\net6.0\Day 07.csproj.AssemblyReference.cache
+C:\Users\Kasia\source\repos\Day 07\obj\Debug\net6.0\Day 07.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kasia\source\repos\Day 07\obj\Debug\net6.0\Day 07.AssemblyInfoInputs.cache
+C:\Users\Kasia\source\repos\Day 07\obj\Debug\net6.0\Day 07.AssemblyInfo.cs
+C:\Users\Kasia\source\repos\Day 07\obj\Debug\net6.0\Day 07.csproj.CoreCompileInputs.cache
+C:\Users\Kasia\source\repos\Day 07\obj\Debug\net6.0\Day 07.dll
+C:\Users\Kasia\source\repos\Day 07\obj\Debug\net6.0\ref\Day 07.dll
+C:\Users\Kasia\source\repos\Day 07\obj\Debug\net6.0\Day 07.pdb
+C:\Users\Kasia\source\repos\Day 07\obj\Debug\net6.0\Day 07.genruntimeconfig.cache
+C:\Users\Kasia\source\repos\Day 07\bin\Debug\net6.0\commands.txt
