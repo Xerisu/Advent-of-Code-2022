@@ -2,7 +2,7 @@
 
 <!-- AOC TILES BEGIN -->
 <h1 align="center">
-  14 ⭐
+  16 ⭐
 </h1>
 <a href="Day 01/Main.py">
   <img src="Media/2022/01.png" width="161px">
@@ -24,5 +24,8 @@
 </a>
 <a href="Day 07/Program.cs">
   <img src="Media/2022/07.png" width="161px">
+</a>
+<a href="Day 08/main.py">
+  <img src="Media/2022/08.png" width="161px">
 </a>
 <!-- AOC TILES END -->
