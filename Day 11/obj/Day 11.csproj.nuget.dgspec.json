@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\AOC\\Advent of Code 2022\\Day 07\\Day 07.csproj": {}
+    "C:\\Users\\Kasia\\source\\repos\\Day 11\\Day 11.csproj": {}
   },
   "projects": {
-    "D:\\AOC\\Advent of Code 2022\\Day 07\\Day 07.csproj": {
+    "C:\\Users\\Kasia\\source\\repos\\Day 11\\Day 11.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\AOC\\Advent of Code 2022\\Day 07\\Day 07.csproj",
-        "projectName": "Day 07",
-        "projectPath": "D:\\AOC\\Advent of Code 2022\\Day 07\\Day 07.csproj",
+        "projectUniqueName": "C:\\Users\\Kasia\\source\\repos\\Day 11\\Day 11.csproj",
+        "projectName": "Day 11",
+        "projectPath": "C:\\Users\\Kasia\\source\\repos\\Day 11\\Day 11.csproj",
         "packagesPath": "C:\\Users\\Kasia\\.nuget\\packages\\",
-        "outputPath": "D:\\AOC\\Advent of Code 2022\\Day 07\\obj\\",
+        "outputPath": "C:\\Users\\Kasia\\source\\repos\\Day 11\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "s5E27RkdxpKGj19oZCcnzDiBu1a9cXxhsUXkoMw2qH0ls3R7iNiLe8VuXVdlDGlAHjb30bCzGotvZFO3nPFOJw==",
+  "dgSpecHash": "6G6aaSZv3QltNvRrWBxmcyVDrBrBdQzbiDNGqdRbR26IdexQXFR0Mje0juKwryTBAQd6zHHwEngPzhE+BzHoDQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Kasia\\source\\repos\\Day 07\\Day 07.csproj",
+  "projectFilePath": "D:\\AOC\\Advent of Code 2022\\Day 07\\Day 07.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
