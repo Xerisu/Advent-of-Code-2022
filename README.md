@@ -5,7 +5,7 @@ This year will be done half in Python (cause of matura exam) half in c# (usually
 (no Padoru Gwen this year :c, but at least I have some fancy aoc tiles!)
 <!-- AOC TILES BEGIN -->
 <h1 align="center">
-  30 ⭐
+  32 ⭐
 </h1>
 <a href="Day 01/Main.py">
   <img src="Media/2022/01.png" width="161px">
@@ -52,6 +52,9 @@ This year will be done half in Python (cause of matura exam) half in c# (usually
 <a href="Day 18/main.py">
   <img src="Media/2022/18.png" width="161px">
 </a>
+<a href="Day 21/main.py">
+  <img src="Media/2022/21.png" width="161px">
+</a>
 <a href="None">
   <img src="Media/2022/15.png" width="161px">
 </a>
@@ -60,5 +63,11 @@ This year will be done half in Python (cause of matura exam) half in c# (usually
 </a>
 <a href="None">
   <img src="Media/2022/17.png" width="161px">
+</a>
+<a href="None">
+  <img src="Media/2022/19.png" width="161px">
+</a>
+<a href="None">
+  <img src="Media/2022/20.png" width="161px">
 </a>
 <!-- AOC TILES END -->
